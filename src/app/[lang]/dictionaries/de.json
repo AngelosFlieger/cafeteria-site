@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "title": "Next.js App erstellen",
+    "description": "Erstellt mit create next app"
+  },
+  "home": {
+    "logoAlt": "Next.js-Logo",
+    "getStartedBefore": "Um zu beginnen, bearbeiten Sie die Datei",
+    "getStartedFile": "page.tsx",
+    "getStartedAfter": ".",
+    "lookingFor": "Suchen Sie einen Einstiegspunkt oder weitere Anleitungen? Schauen Sie bei den",
+    "templates": "Vorlagen",
+    "orThe": "oder dem",
+    "learning": "Lernzentrum",
+    "center": "vorbei.",
+    "vercelLogoAlt": "Vercel-Logo",
+    "deployNow": "Jetzt deployen",
+    "documentation": "Dokumentation"
+  },
+  "language": {
+    "label": "Sprache",
+    "en": "Englisch",
+    "de": "Deutsch"
+  }
+}
