@@ -63,6 +63,11 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <section className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
+          <h2 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
+            hello world
+          </h2>
+        </section>
       </main>
     </div>
   );
